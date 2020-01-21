@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="4.0" package="org.example.morseime" version="1.0.0">
+    <author email="patmart43@yahoo.com">Patty Martin</author>
+    <profile name="wearable"/>
+    <ui-application appid="org.example.morseime" exec="morseime" multiple="false" nodisplay="true" taskmanage="false" type="capp">
+        <label>morseime</label>
+        <icon>morseime.png</icon>
+        <category name="http://tizen.org/category/ime"/>
+    </ui-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/ime</privilege>
+    </privileges>
+</manifest>
