@@ -5,6 +5,11 @@
 The Morse IME application is a morse code keyboard for wearable devices running
 Tizen OS, such as the Samsung Galaxy Watch.
 
+- [Installation](#installation)
+- [Using the Keyboard](#using-the-keyboard)
+- [Morse Code Table](#morse-code-table)
+- [Troubleshooting](#troubleshooting)
+
 ## Installation
 
 To install the application on your smartwatch, you will first need to install
